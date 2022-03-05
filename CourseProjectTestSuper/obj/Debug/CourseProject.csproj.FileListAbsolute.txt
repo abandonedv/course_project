@@ -1,0 +1,66 @@
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\CourseProject.Form1.resources
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Vadim\Downloads\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Vadim\Downloads\drawgraphProgram\CourseProject\obj\Debug\CourseProject.Form1.resources
+C:\Users\Vadim\RiderProjects\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Vadim\RiderProjects\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProject\obj\Debug\CourseProject.View.Form1.resources
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\bin\Debug\CourseProject.exe.config
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\bin\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\bin\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.View.Form1.resources
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProject — копия (2)\obj\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProjectTest\bin\Debug\CourseProject.exe.config
+C:\Users\Vadim\RiderProjects\CourseProjectTest\bin\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProjectTest\bin\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.View.Form1.resources
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProjectTest\obj\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\bin\Debug\CourseProject.exe.config
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\bin\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\bin\Debug\CourseProject.pdb
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.View.Form1.resources
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.exe
+C:\Users\Vadim\RiderProjects\CourseProjectTestSuper\obj\Debug\CourseProject.pdb
